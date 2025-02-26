@@ -4,6 +4,7 @@ title: "Seamless Justifications - Research"
 # Note: This is the main page of the website. The content of this file will be displayed on the homepage of the website. Most of my edits will be made here.
 
 
+
 ## Welcome
 
 This website houses my undergraduate research on cognitive dissonance and consumer behavior. The research explores how learning about unethical manufacturing practices affects consumers' evaluations of products they've already chosen.
