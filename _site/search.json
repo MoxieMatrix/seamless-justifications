@@ -10,14 +10,49 @@
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Seamless Justifications - Research",
-    "section": "",
-    "text": "This website houses my undergraduate research on cognitive dissonance and consumer behavior. The research explores how learning about unethical manufacturing practices affects consumers’ evaluations of products they’ve already chosen.\n\n\n\nThe Effect of Negative Information on the Justification of Chosen Alternatives\n[Second Project Title]\n\n\n\n\n#- View the full research paper #- Explore the data and analysis # - Learn about the research background"
+    "section": "Welcome",
+    "text": "Welcome\nThis website houses my undergraduate research on cognitive dissonance and consumer behavior. The research explores how learning about unethical manufacturing practices affects consumers’ evaluations of products they’ve already chosen.\n\nFeatured Projects\n\nThe Effect of Negative Information on the Justification of Chosen Alternatives\n[Second Project Title]\n\n\n\nNavigation\n#- View the full research paper #- Explore the data and analysis # - Learn about the research background"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n# Amie is testing this out 1\n\nAmie is testing this out 2 Amie is testing this out 3"
+  },
+  {
+    "objectID": "Study1-ShirtsData.html",
+    "href": "Study1-ShirtsData.html",
+    "title": "Seamless Justifications - Study 1 - Shirts",
+    "section": "",
+    "text": "(Here you can include text, graphs, and more related to Study 1)"
+  },
+  {
+    "objectID": "Study1-ShirtsData.html#study-1-overview",
+    "href": "Study1-ShirtsData.html#study-1-overview",
+    "title": "Seamless Justifications - Study 1 - Shirts",
+    "section": "",
+    "text": "(Here you can include text, graphs, and more related to Study 1)"
+  },
+  {
+    "objectID": "about.html#the-about.qmd-file-is-an-extra-file-that-is-not-linked-to-the-index.qmd-file.-it-creates-a-secondary-optional-page-on-the-website.-the-content-of-this-file-will-be-displayed-on-the-about-page-of-the-website.",
+    "href": "about.html#the-about.qmd-file-is-an-extra-file-that-is-not-linked-to-the-index.qmd-file.-it-creates-a-secondary-optional-page-on-the-website.-the-content-of-this-file-will-be-displayed-on-the-about-page-of-the-website.",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n# Amie is testing this out 1\n\nAmie is testing this out 2 Amie is testing this out 3"
+  },
+  {
+    "objectID": "pages/Study1-ShirtsData.html",
+    "href": "pages/Study1-ShirtsData.html",
+    "title": "Seamless Justifications - Study 1 - Shirts",
+    "section": "",
+    "text": "(Here I will include….."
+  },
+  {
+    "objectID": "pages/Study1-ShirtsData.html#study-1-overview",
+    "href": "pages/Study1-ShirtsData.html#study-1-overview",
+    "title": "Seamless Justifications - Study 1 - Shirts",
+    "section": "",
+    "text": "(Here I will include….."
   }
 ]
