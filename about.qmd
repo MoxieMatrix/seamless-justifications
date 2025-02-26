@@ -1,9 +1,13 @@
 ---
 title: "About"
 ---
+## the about.qmd file is an extra file that is not linked to the index.qmd file. It creates a secondary, optional page on the website. The content of this file will be displayed on the "About" page of the website. 
 
 About this site
 
 ```{r}
-1 + 1
+Amie is testing this out 1
 ```
+
+Amie is testing this out 2
+Amie is testing this out 3
