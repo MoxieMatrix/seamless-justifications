@@ -1,0 +1,19 @@
+---
+title: "Seamless Justifications - Research"
+---
+# Note: This is the main page of the website. The content of this file will be displayed on the homepage of the website. Most of my edits will be made here.
+
+
+## Welcome
+
+This website houses my undergraduate research on cognitive dissonance and consumer behavior. The research explores how learning about unethical manufacturing practices affects consumers' evaluations of products they've already chosen.
+
+### Featured Projects
+1. The Effect of Negative Information on the Justification of Chosen Alternatives
+2. [Second Project Title]
+
+### Navigation
+#- View the full [research paper](paper.qmd)
+#- Explore the [data and analysis](data.qmd)
+# - Learn about the [research background](background.qmd)
+
